@@ -1,2 +1,3 @@
 # project1
-Data Process
+a,b=10,20
+print(a+b)
